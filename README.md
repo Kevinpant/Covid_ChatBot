@@ -6,7 +6,7 @@ This is a project cum helping hand to those who wants to fetch the quick results
 **Project Setup: **
 
 First, pull the git repository on your system with the given command:
-git clone https://github.com/
+git clone git@github.com:Kevinpant/Covid_ChatBot.git
 
 Sep 1:  pip install -r requirements.txt
 This will install all the dependencies for your project so that you can get started with the project and test it's functionality. It will take some time to setup and install all the packages on your system.
