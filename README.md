@@ -1,5 +1,5 @@
-# Covid_ChatBot
-# HospitalBedsAvailability
+
+# Hospital Beds Availability ChatBot
 
 This is a project cum helping hand to those who wants to fetch the quick results for the details of the hospital near them with vacant ICU or Non ICU beds. Here you just have to talk to your bot and your bot willgive you the compplete details about the hospital including the contact number, Hospital name, location, vacant beds, etc. Now let's start by setting up the project on your system to make it work and lets fetch the real-time resultys from it.
 
