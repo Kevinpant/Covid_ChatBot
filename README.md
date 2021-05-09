@@ -5,7 +5,7 @@ In this project I create a ChatBot which automatically fetches details of Hospit
 The chatbot spits out vrious important details such as contact number, Hospital name, location, vacant beds with and without ICU beds, etc.
 
 
-*Project Setup:*
+***Project Setup:***
 
 First, pull the git repository on your system with the given command:
 git clone https://github.com/Kevinpant/Covid_ChatBot.git
@@ -22,3 +22,4 @@ rasa run actions
 
 With these commands the rasa chatbot gets activated and we are now ready to interact with out smartbot.
 Final step is to open index.html file on the browser and enjoy playing around with our chatbot.
+
