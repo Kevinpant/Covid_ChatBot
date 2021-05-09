@@ -1,7 +1,7 @@
 
 # Hospital Beds Availability ChatBot
 
-In this project I create a ChatBot which automatically fetches details of Hospitals with Vacant ICU beds and Non ICU beds.
+In this project I create a ChatBot which automatically fetches details of Hospitals with Vacant ICU beds and Non ICU beds, using webscrapping.
 The chatbot spits out vrious important details such as contact number, Hospital name, location, vacant beds with and without ICU beds, etc.
 
 
