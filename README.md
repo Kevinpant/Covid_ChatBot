@@ -1,9 +1,11 @@
 
 # Hospital Beds Availability ChatBot
 
-This is a project cum helping hand to those who wants to fetch the quick results for the details of the hospital near them with vacant ICU or Non ICU beds. Here you just have to talk to your bot and your bot willgive you the compplete details about the hospital including the contact number, Hospital name, location, vacant beds, etc. Now let's start by setting up the project on your system to make it work and lets fetch the real-time resultys from it.
+In this project I create a ChatBot which automatically fetches details of Hospitals with Vacant ICU beds and Non ICU beds.
+The chatbot spits out vrious important details such as contact number, Hospital name, location, vacant beds with and without ICU beds, etc.
 
-**Project Setup: **
+
+*Project Setup:*
 
 First, pull the git repository on your system with the given command:
 git clone git@github.com:Kevinpant/Covid_ChatBot.git
@@ -15,8 +17,8 @@ Now when you have all the dependencies installed, run the given commands paralle
 
 rasa run --model models --enable-api --cors "*" --debug
 
-and in second terminal,
-
+and in Second Terminal run the following command:
 rasa run actions
 
-with these commands your rasa chatbot it activated and ready to talk and help you. Now open index.html file on the browser and enjoy playing around with the chatbot.
+With these commands the rasa chatbot gets activated and we are now ready to interact with out smartbot.
+Final step is to open index.html file on the browser and enjoy playing around with our chatbot.
